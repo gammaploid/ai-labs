@@ -1,0 +1,13 @@
+# Core scientific stack (Python 3.12 compatible versions with wheels)
+pandas>=2.2.2,<3.0
+numpy>=1.26.4,<2.0
+matplotlib>=3.8,<3.10
+seaborn>=0.13.2,<0.14
+scikit-learn>=1.4.2,<1.6
+graphviz>=0.20.1
+
+# Jupyter and IPython ecosystem (optimized for VS Code/Cursor)
+ipykernel>=6.29.5
+ipython>=8.25.0
+jupyter>=1.0.0
+nbformat>=5.10.4

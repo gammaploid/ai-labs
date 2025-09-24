@@ -1,0 +1,26 @@
+matplotlib==3.9.2
+numpy==2.2.6
+pandas==2.2.3
+requests==2.32.5
+scikit-learn==1.5.2
+statsmodels==0.14.0
+
+# Minimal requirements for Lab06: these cover the imports at the top of the
+# notebook (matplotlib, numpy, pandas, requests, scikit-learn, statsmodels).
+# If you need the original full environment, restore the previous long
+# requirements file from source control or a backup.
+
+llguidance==0.7.30
+llvmlite==0.44.0
+lm-format-enforcer==0.10.11
+matplotlib==3.9.2
+numpy==2.2.6
+pandas==2.2.3
+requests==2.32.5
+scikit-learn==1.5.2
+statsmodels==0.14.0
+
+# Minimal requirements for Lab06: these cover the imports at the top of the
+# notebook (matplotlib, numpy, pandas, requests, scikit-learn, statsmodels).
+# If you need the original full environment, restore the previous long
+# requirements file from source control or a backup.
