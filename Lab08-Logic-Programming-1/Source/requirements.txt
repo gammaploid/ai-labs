@@ -1,0 +1,2 @@
+# This lab uses Prolog. A Prolog interpreter like SWI-Prolog is required.
+# No Python packages are needed.
