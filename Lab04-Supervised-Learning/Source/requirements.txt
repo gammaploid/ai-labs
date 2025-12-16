@@ -69,7 +69,7 @@ fastapi==0.116.1
 fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.4
 fastjsonschema==2.21.1
-filelock==3.18.0
+filelock==3.20.1
 Flask==2.2.3
 Flask-Cors==3.0.10
 flatbuffers==25.2.10
