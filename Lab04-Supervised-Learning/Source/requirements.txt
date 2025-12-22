@@ -151,7 +151,7 @@ lxml==4.9.2
 Markdown==3.8.2
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-marshmallow==3.22.0
+marshmallow==3.26.2
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
 mdurl==0.1.2
